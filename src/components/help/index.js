@@ -8,7 +8,10 @@ const Help = ( {navigation} ) => {
         <>
             <Header />
             <ScrollView style={style.container}>
-                <text>HELP</text>
+                <Text style ={style.text}>Pedido</Text>
+                <Text style ={style.text}>Pagamento</Text>
+                <Text style ={style.text}>Entrega</Text>
+                <Text style ={style.text}>Contato</Text>
             </ScrollView>
         </>
     )
