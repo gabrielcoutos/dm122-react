@@ -1,6 +1,5 @@
 import React from 'react';
 import { ScrollView } from 'react-native';
-import ProductList from '../ProductList';
 import style from './style';
 import Header from '../Header';
 
