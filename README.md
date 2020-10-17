@@ -1,6 +1,6 @@
 # App Base
 
-Projeto Base Trabalho DM122
+Projeto para a aula DM122
 
 ## Install and Run
 npm install
